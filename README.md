@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this project, we will build a Spring Boot application to serve as the backend for the 'Find My Project' application. The 'Find My Project' application forms the bridge between researchers and the a lot of projects they undertake. Users can look through the application to view the collaborations between researchers and the projects they're involved in.
 
 For this application, we are focusing on two key entities: `Researcher` and `Project`. The `Researcher` entity establishes a Many-to-Many relationship with the `Project` entity.
@@ -543,3 +544,6 @@ Returns all researchers associated with the project based on the `projectId`. If
 </details>
 
 **Do not modify the code in `FindMyProjectApplication.java`**
+=======
+# findmyproject
+>>>>>>> 7581c845d8e72602aaf377ccc6773579b05ec725
